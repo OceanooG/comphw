@@ -1,4 +1,5 @@
-###Github tutorial step by step
+### Github tutorial step by step
+
 Hi, This is a step by step tutorial on how to use git and its commands to submit projects, this tutorial will use a coding example as contex to show you how to set up git and using git to submit your work to github. FYI, this tutorial is based on MAC OS by apple.
 ####Step 1 - Github Account 
 Before we do anything on our Terminal with git commands, you will need a GitHub acount. 
